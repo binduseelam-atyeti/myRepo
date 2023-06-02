@@ -1,3 +1,4 @@
 This is to check git merge history.
-Checking merge conflict with an example
+Checking merge conflict
 hello world..
+Git is a distributed version control system.
