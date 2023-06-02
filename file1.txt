@@ -1,1 +1,2 @@
-This is to check git merge history
+This is to check git merge history.
+Checking merge conflict
